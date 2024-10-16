@@ -1,0 +1,4 @@
+Date,Happiness,Confidence,Productivity,Comments,-
+10/15,10,10,10,Hello
+10/16,9,5,4,Hello2
+Hello3,4,3,4,Hello3
